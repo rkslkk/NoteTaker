@@ -12,3 +12,6 @@ body {
     text-transform: lowercase;
 }
 
+#area {
+    object-position: center;
+}
